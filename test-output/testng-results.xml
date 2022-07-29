@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31643" started-at="2022-07-27T11:05:05 IST" finished-at="2022-07-27T11:05:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31643" started-at="2022-07-27T11:05:05 IST" finished-at="2022-07-27T11:05:37 IST">
+      <class name="com.testng.Myntra">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:com.testng.Myntra@6b9651f3]" name="browser_launch" is-config="true" duration-ms="16" started-at="2022-07-27T11:05:05 IST" finished-at="2022-07-27T11:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="url_launch()[pri:0, instance:com.testng.Myntra@6b9651f3]" name="url_launch" is-config="true" duration-ms="13695" started-at="2022-07-27T11:05:05 IST" finished-at="2022-07-27T11:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method status="PASS" signature="myntra_allprices()[pri:0, instance:com.testng.Myntra@6b9651f3]" name="myntra_allprices" duration-ms="1695" started-at="2022-07-27T11:05:19 IST" finished-at="2022-07-27T11:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra_allprices -->
+        <test-method status="PASS" signature="url_launch()[pri:0, instance:com.testng.Myntra@6b9651f3]" name="url_launch" is-config="true" duration-ms="14389" started-at="2022-07-27T11:05:21 IST" finished-at="2022-07-27T11:05:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method status="PASS" signature="myntra_pprices()[pri:0, instance:com.testng.Myntra@6b9651f3]" name="myntra_pprices" duration-ms="1736" started-at="2022-07-27T11:05:35 IST" finished-at="2022-07-27T11:05:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra_pprices -->
+      </class> <!-- com.testng.Myntra -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
